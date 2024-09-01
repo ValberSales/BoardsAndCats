@@ -1,0 +1,332 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    z-index: 10;
+}
+
+header a:hover{
+    color: rgb(80, 0, 80)!important;
+}
+
+.cabecalho{
+    color: purple!important; 
+    font-weight: bold;
+}
+
+main {
+    position: relative;
+    top: 90px;
+    z-index: 5;
+}
+
+section {
+    top: 90px;
+    z-index: 5;
+}
+
+.toast{
+    top: 4rem;
+    right: 1rem;
+}
+
+.cardwidth{
+    max-width: 17rem;
+}
+
+.dropdown-item:active {
+    background-color: purple;
+}
+
+.cardgroup {
+    max-height: 10vh;
+}
+
+.card-text {
+    color: purple;
+}
+
+.cardlink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.sombra {
+    box-shadow: 0px 0px 6px 0px rgb(173, 172, 172)
+}
+
+.carousel-img {
+    max-height: 30vh;
+    object-fit: scale-down;
+}
+
+.logo {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 20px;
+}
+
+.card-section {
+    max-width: 85%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.banner {
+    max-width: 100%;
+    min-width: 100%;
+    object-fit: contain;
+}
+
+.cardimg {
+    max-height: 200px;
+    object-fit: scale-down;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.txtparcela {
+    color: rgb(110, 110, 110);
+    font-size: small;
+}
+
+.bgcarousel {
+    background: #500050;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.btn-carrinho{
+    background: purple;
+    color: white;
+    border-color: purple;
+
+}
+
+.btn-carrinho:hover {
+    background-color: rgb(80, 0, 80);
+    color: white;
+}
+
+.linlresp{
+    display: none;
+    text-decoration: none;
+}
+
+.btn-bd-primary {
+    background: white;
+    color: purple;
+    border-color: purple;
+}
+
+.btn-bd-primary:hover {
+    background-color: purple;
+    color: white;
+}
+
+.btn-bd-primary:active {
+    background-color: rgb(80, 0, 80);
+    color: white;
+}
+
+.footer-content {
+    background-color: rgb(80, 0, 80);
+    padding: 1rem;
+}
+
+.footer-content h4 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.footer-content p {
+    color: #fff;
+}
+
+.footer-content a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-content li {
+    display: block;
+}
+
+.direitos-autorais {
+    background-color: rgb(43, 0, 43);
+    color: #ffffff;
+    text-align: center;
+    padding: .1rem;
+    font-size: x-small;
+}
+
+.direitos-autorais p {
+    margin: 0.3rem;
+}
+
+.grow1 {
+    flex-grow: 1;
+}
+
+.grow2 {
+    flex-grow: 2;
+}
+
+.footericons ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    /* Use flexbox to align items inline */
+}
+
+.footericons ul li {
+    margin-right: 15px;
+    /* Space between icons */
+}
+
+.footericons ul li a {
+    text-decoration: none;
+    font-size: 24px;
+    /* Adjust icon size */
+}
+
+.nav {
+    min-height: 90px;
+}
+
+
+
+
+
+footer {
+    padding-top: 5rem;
+}
+
+.centerflex {
+    position: relative;
+    /* Necessário para posicionar os botões em relação ao contêiner */
+}
+
+.scroll-control {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.left-control {
+    left: 0;
+    z-index: 5;
+}
+
+.right-control {
+    right: 0;
+    z-index: 5;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.botao-carrinho {
+    border-radius: 0, 0;
+}
+
+header img {
+    height: 30px;
+    width: 30px;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+ol li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.prod{
+    max-width: 800px;
+    padding-top: 1rem;
+    margin: auto;
+}
+
+.card-container{
+    margin: auto;
+}
+
+.prodimage {
+    max-height: 400px;
+    min-height: 400px;
+    object-fit: scale-down;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+.form-container {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 600px;
+    margin: 40px auto;
+    border: 2px solid purple;
+}
+
+.form-label {
+    color: purple;
+}
+
+.btn-primary {
+    background-color: purple;
+    border-color: purple;
+}
+
+.btn-primary:hover {
+    background-color: #5a32a3;
+    border-color: #5a32a3;
+}
+
+.imgcarrinho{
+    max-height: 3rem;
+    object-fit: scale-down;
+}
+
+.tabelacarrinho{
+    color: purple; 
+    font-weight: bold;
+}
+
+.mini-image{
+    max-height: 50px;
+    max-width: 50px;
+    object-fit: scale-down;
+}
+
+.cardicons{
+    max-width: 120px;
+}

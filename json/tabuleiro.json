@@ -1,0 +1,606 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Terra Mystica",
+            "preco": "299.90",
+            "descricao": "Terra Mystica é um jogo de tabuleiro estratégico onde os jogadores desenvolvem uma civilização e exploram um mundo fantástico. Cada jogador controla uma das 14 facções distintas, cada uma com habilidades especiais e estratégias únicas.",
+            "editor": "Feuerland Spiele",
+            "mecanicas": [
+                "Controle de área",
+                "Desenvolvimento",
+                "Negociação"
+            ],
+            "quantidade_jogadores": "2-5",
+            "duracao": "60-150 minutos",
+            "idade_recomendada": "12+",
+            "imagem_principal": "./img/jogos/terramystica-main.jpg",
+            "outras_imagens": [
+                "./img/jogos/terramystica-1.jpg",
+                "./img/jogos/terramystica-2.jpg",
+                "./img/jogos/terramystica-3.jpg"
+            ],
+            "promo": "sim",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 2,
+            "nome": "Catan",
+            "preco": "249.90",
+            "descricao": "Catan é um jogo de construção de estradas e cidades onde os jogadores competem por recursos e domínio territorial.",
+            "editor": "KOSMOS",
+            "mecanicas": [
+                "Gestão de recursos",
+                "Colocação de trabalhadores",
+                "Negociação"
+            ],
+            "quantidade_jogadores": "3-4",
+            "duracao": "60-120 minutos",
+            "idade_recomendada": "10+",
+            "imagem_principal": "./img/jogos/catan_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/catan_1.jpg",
+                "./img/jogos/catan_2.webp",
+                "./img/jogos/catan_3.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 3,
+            "nome": "Pandemic",
+            "preco": "189.90",
+            "descricao": "Pandemic é um jogo cooperativo onde os jogadores trabalham juntos para combater surtos de doenças ao redor do mundo.",
+            "editor": "Z-Man Games",
+            "mecanicas": [
+                "Cooperativo",
+                "Gestão de mão",
+                "Ação em tempo real"
+            ],
+            "quantidade_jogadores": "2-4",
+            "duracao": "45-60 minutos",
+            "idade_recomendada": "8+",
+            "imagem_principal": "./img/jogos/pandemic_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/pandemic_1.webp",
+                "./img/jogos/pandemic_2.webp",
+                "./img/jogos/pandemic_3.webp"
+            ],
+            "promo": "sim",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 4,
+            "nome": "Ticket to Ride",
+            "preco": "199.90",
+            "descricao": "Ticket to Ride é um jogo de estratégia em que os jogadores constroem rotas ferroviárias pelo mapa.",
+            "editor": "Days of Wonder",
+            "mecanicas": [
+                "Gestão de mão",
+                "Construção de rotas",
+                "Controle de área"
+            ],
+            "quantidade_jogadores": "2-5",
+            "duracao": "30-60 minutos",
+            "idade_recomendada": "8+",
+            "imagem_principal": "./img/jogos/tickettoride_main.webp",
+            "outras_imagens": [
+                "./img/jogos/tickettoride_1.jpeg",
+                "./img/jogos/tickettoride_2.webp",
+                "./img/jogos/tickettoride_3.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 5,
+            "nome": "Gloomhaven",
+            "preco": "499.90",
+            "descricao": "Gloomhaven é um jogo de combate tático e exploração de masmorras, conhecido por sua campanha extensa e rica narrativa.",
+            "editor": "Cephalofair Games",
+            "mecanicas": [
+                "Combate tático",
+                "Exploração",
+                "Narrativa dirigida por cartas"
+            ],
+            "quantidade_jogadores": "1-4",
+            "duracao": "60-120 minutos",
+            "idade_recomendada": "14+",
+            "imagem_principal": "./img/jogos/gloomhaven_main.webp",
+            "outras_imagens": [
+                "./img/jogos/gloomhaven_1.webp",
+                "./img/jogos/gloomhaven_2.webp",
+                "./img/jogos/gloomhaven_3.jpeg"
+            ],
+            "promo": "sim",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 6,
+            "nome": "Azul",
+            "preco": "149.90",
+            "descricao": "Azul é um jogo de tabuleiro abstrato onde os jogadores competem para decorar um palácio português com mosaicos coloridos.",
+            "editor": "Next Move Games",
+            "mecanicas": [
+                "Colecionar conjuntos",
+                "Colocação de peças",
+                "Gestão de recursos"
+            ],
+            "quantidade_jogadores": "2-4",
+            "duracao": "30-45 minutos",
+            "idade_recomendada": "8+",
+            "imagem_principal": "./img/jogos/azul_main.jpeg",
+            "outras_imagens": [
+                "./img/jogos/azul_1.jpg",
+                "./img/jogos/azul_2.webp",
+                "./img/jogos/azul_3.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 7,
+            "nome": "Carcassonne",
+            "preco": "129.90",
+            "descricao": "Carcassonne é um jogo de colocação de peças onde os jogadores constroem uma paisagem medieval e controlam cidades, estradas e campos.",
+            "editor": "Z-Man Games",
+            "mecanicas": [
+                "Controle de área",
+                "Colocação de peças",
+                "Colecionar pontos"
+            ],
+            "quantidade_jogadores": "2-5",
+            "duracao": "35 minutos",
+            "idade_recomendada": "7+",
+            "imagem_principal": "./img/jogos/carcassonne_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/carcassonne_1.jpg",
+                "./img/jogos/carcassonne_2.webp",
+                "./img/jogos/carcassonne_3.jpg"
+            ],
+            "promo": "sim",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 8,
+            "nome": "7 Wonders",
+            "preco": "219.90",
+            "descricao": "7 Wonders é um jogo de cartas onde os jogadores desenvolvem uma civilização através de construção de edifícios e monumentos.",
+            "editor": "Repos Production",
+            "mecanicas": [
+                "Construção de cidades",
+                "Gestão de recursos",
+                "Gestão de mão"
+            ],
+            "quantidade_jogadores": "2-7",
+            "duracao": "30 minutos",
+            "idade_recomendada": "10+",
+            "imagem_principal": "./img/jogos/7wonders_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/7wonders_1.png",
+                "./img/jogos/7wonders_2.webp",
+                "./img/jogos/7wonders_3.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 9,
+            "nome": "Distilled",
+            "preco": "349.90",
+            "descricao": "Distilled é um jogo de tabuleiro estratégico sobre destilação de bebidas alcoólicas, onde os jogadores competem para criar as melhores destilarias e bebidas.",
+            "editor": "Paverson Games",
+            "mecanicas": [
+                "Gestão de mão",
+                "Construção de baralho",
+                "Colocação de trabalhadores"
+            ],
+            "quantidade_jogadores": "1-5",
+            "duracao": "60-120 minutos",
+            "idade_recomendada": "14+",
+            "imagem_principal": "./img/jogos/distilled_main.webp",
+            "outras_imagens": [
+                "./img/jogos/distilled_1.jpg",
+                "./img/jogos/distilled_2.jpg",
+                "./img/jogos/distilled_3.webp"
+            ],
+            "promo": "nao",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 10,
+            "nome": "Splendor",
+            "preco": "179.90",
+            "descricao": "Splendor é um jogo de coleção de recursos e desenvolvimento, onde os jogadores competem para construir o império comercial mais próspero.",
+            "editor": "Space Cowboys",
+            "mecanicas": [
+                "Colecionar recursos",
+                "Gestão de mão",
+                "Desenvolvimento econômico"
+            ],
+            "quantidade_jogadores": "2-4",
+            "duracao": "30 minutos",
+            "idade_recomendada": "10+",
+            "imagem_principal": "./img/jogos/splendor_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/splendor_1.jpg",
+                "./img/jogos/splendor_2.webp",
+                "./img/jogos/splendor_3.webp"
+            ],
+            "promo": "sim",
+            "categoria": "Jogos de Tabuleiro"
+        },
+        {
+            "id": 11,
+            "nome": "Magic: The Gathering",
+            "preco": "129.90",
+            "descricao": "Magic: The Gathering é um jogo de cartas colecionáveis onde os jogadores duelam entre si usando decks de cartas que representam magias, criaturas, e artefatos mágicos.",
+            "editor": "Wizards of the Coast",
+            "mecanicas": [
+                "Construção de Deck",
+                "Gestão de Recursos",
+                "Colecionável"
+            ],
+            "quantidade_jogadores": "2+",
+            "duracao": "20-60 minutos",
+            "idade_recomendada": "13+",
+            "imagem_principal": "./img/jogos/magic_the_gathering_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/magic_the_gathering_1.jpg",
+                "./img/jogos/magic_the_gathering_2.jpg",
+                "./img/jogos/magic_the_gathering_3.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 12,
+            "nome": "UNO",
+            "preco": "29.90",
+            "descricao": "UNO é um jogo de cartas popular onde os jogadores tentam se livrar de todas as suas cartas combinando números ou cores com a carta jogada anteriormente.",
+            "editor": "Mattel",
+            "mecanicas": [
+                "Jogo de Descarte",
+                "Gestão de Mão",
+                "Ação em Tempo Real"
+            ],
+            "quantidade_jogadores": "2-10",
+            "duracao": "30 minutos",
+            "idade_recomendada": "7+",
+            "imagem_principal": "./img/jogos/uno_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/uno_1.jpg",
+                "./img/jogos/uno_2.jpg",
+                "./img/jogos/uno_3.jpg"
+            ],
+            "promo": "sim",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 13,
+            "nome": "Exploding Kittens",
+            "preco": "69.90",
+            "descricao": "Exploding Kittens é um jogo de cartas de sorte e estratégia onde os jogadores tentam evitar explodir jogando cartas especiais para manipular o jogo.",
+            "editor": "Exploding Kittens, LLC",
+            "mecanicas": [
+                "Gestão de Mão",
+                "Eliminação de Jogadores",
+                "Ação em Tempo Real"
+            ],
+            "quantidade_jogadores": "2-5",
+            "duracao": "15 minutos",
+            "idade_recomendada": "7+",
+            "imagem_principal": "./img/jogos/exploding_kittens_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/exploding_kittens_1.jpg",
+                "./img/jogos/exploding_kittens_2.jpg",
+                "./img/jogos/exploding_kittens_3.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 14,
+            "nome": "Cards Against Humanity",
+            "preco": "99.90",
+            "descricao": "Cards Against Humanity é um jogo de cartas de humor negro onde os jogadores combinam cartas para criar respostas engraçadas e politicamente incorretas.",
+            "editor": "Cards Against Humanity, LLC",
+            "mecanicas": [
+                "Associação de Palavras",
+                "Jogo de Festa",
+                "Gestão de Mão"
+            ],
+            "quantidade_jogadores": "4-20",
+            "duracao": "30-90 minutos",
+            "idade_recomendada": "17+",
+            "imagem_principal": "./img/jogos/cards_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/cards1.png",
+                "./img/jogos/cards2.jpg"
+            ],
+            "promo": "sim",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 15,
+            "nome": "The Game",
+            "preco": "49.90",
+            "descricao": "The Game é um jogo de cartas cooperativo onde os jogadores trabalham juntos para descartar todas as cartas de forma estratégica.",
+            "editor": "NSV",
+            "mecanicas": [
+                "Cooperativo",
+                "Gestão de Mão",
+                "Estratégia"
+            ],
+            "quantidade_jogadores": "1-5",
+            "duracao": "20 minutos",
+            "idade_recomendada": "8+",
+            "imagem_principal": "./img/jogos/game_main.webp",
+            "outras_imagens": [
+                "./img/jogos/game1.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 16,
+            "nome": "Dominion",
+            "preco": "179.90",
+            "descricao": "Dominion é um jogo de construção de deck onde os jogadores competem para construir o reino mais próspero através de cartas de ação e tesouro.",
+            "editor": "Rio Grande Games",
+            "mecanicas": [
+                "Construção de Deck",
+                "Gestão de Mão",
+                "Estratégia"
+            ],
+            "quantidade_jogadores": "2-4",
+            "duracao": "30 minutos",
+            "idade_recomendada": "13+",
+            "imagem_principal": "./img/jogos/dominion_main.png",
+            "outras_imagens": [
+                "./img/jogos/dominion_1.jpg",
+                "./img/jogos/dominion_2.jpg",
+                "./img/jogos/dominion_3.webp"
+            ],
+            "promo": "sim",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 17,
+            "nome": "Love Letter",
+            "preco": "39.90",
+            "descricao": "Love Letter é um jogo de cartas simples e estratégico onde os jogadores tentam entregar uma carta de amor à princesa enquanto evitam ser descobertos.",
+            "editor": "Z-Man Games",
+            "mecanicas": [
+                "Eliminação de Jogadores",
+                "Gestão de Mão",
+                "Ação em Tempo Real"
+            ],
+            "quantidade_jogadores": "2-6",
+            "duracao": "20 minutos",
+            "idade_recomendada": "10+",
+            "imagem_principal": "./img/jogos/love_letter_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/love_letter_1.webp",
+                "./img/jogos/love_letter_2.png",
+                "./img/jogos/love_letter_3.webp"
+            ],
+            "promo": "nao",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 18,
+            "nome": "Race for the Galaxy",
+            "preco": "149.90",
+            "descricao": "Race for the Galaxy é um jogo de construção de impérios onde os jogadores utilizam cartas para explorar novos mundos e desenvolver tecnologias avançadas.",
+            "editor": "Rio Grande Games",
+            "mecanicas": [
+                "Construção de Deck",
+                "Gestão de Mão",
+                "Gestão de Recursos"
+            ],
+            "quantidade_jogadores": "2-4",
+            "duracao": "30-60 minutos",
+            "idade_recomendada": "12+",
+            "imagem_principal": "./img/jogos/race_main.jpg",
+            "outras_imagens": [
+                "./img/jogos/race_1.jpg",
+                "./img/jogos/race_2.jpg",
+                "./img/jogos/race_3.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 19,
+            "nome": "Codenames",
+            "preco": "89.90",
+            "descricao": "Codenames é um jogo de associação de palavras onde os jogadores tentam descobrir todas as palavras associadas a seus agentes secretos antes que a equipe adversária.",
+            "editor": "Czech Games Edition",
+            "mecanicas": [
+                "Associação de Palavras",
+                "Jogo de Equipe",
+                "Ação em Tempo Real"
+            ],
+            "quantidade_jogadores": "2-8",
+            "duracao": "15-20 minutos",
+            "idade_recomendada": "10+",
+            "imagem_principal": "./img/jogos/codenames_main.webp",
+            "outras_imagens": [
+                "./img/jogos/codenames_1.webp",
+                "./img/jogos/codenames_2.jpg",
+                "./img/jogos/codenames_3.jpg"
+            ],
+            "promo": "sim",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 20,
+            "nome": "The Mind",
+            "preco": "49.90",
+            "descricao": "The Mind é um jogo cooperativo onde os jogadores tentam jogar cartas em ordem crescente sem se comunicar verbalmente, criando uma conexão intuitiva entre os participantes.",
+            "editor": "Pandasaurus Games",
+            "mecanicas": [
+                "Cooperativo",
+                "Gestão de Mão",
+                "Ação em Tempo Real"
+            ],
+            "quantidade_jogadores": "2-4",
+            "duracao": "20 minutos",
+            "idade_recomendada": "8+",
+            "imagem_principal": "./img/jogos/mind_main.webp",
+            "outras_imagens": [
+                "./img/jogos/mind_1.webp",
+                "./img/jogos/mind_2.jpg",
+                "./img/jogos/mind_3.webp"
+            ],
+            "promo": "nao",
+            "categoria": "Card Games"
+        },
+        {
+            "id": 21,
+            "nome": "Organizer para Gloomhaven",
+            "preco": "149.00",
+            "descricao": "Organizer personalizado para Gloomhaven, feito de madeira, ideal para armazenar cartas, fichas e miniaturas.",
+            "editor": "Meeple Realty",
+            "imagem_principal": "./img/acessorios/havenbox1.webp",
+            "outras_imagens": [
+                "./img/acessorios/havenbox2.webp",
+                "./img/acessorios/havenbox3.png",
+                "./img/acessorios/havenbox4.webp",
+                "./img/acessorios/havenbox5.webp"
+            ],
+            "promo": "nao",
+            "categoria": "Acessórios"
+        },
+        {
+            "id": 22,
+            "nome": "Playmat Magic: The Gathering - Planeswalker",
+            "preco": "89.00",
+            "descricao": "Tapete de jogo para Magic: The Gathering com design de Planeswalker, ideal para proteger suas cartas durante as partidas.",
+            "editor": "Ultra Pro",
+            "imagem_principal": "./img/acessorios/playmatmagic1.jpg",
+            "outras_imagens": [
+                "./img/acessorios/playmatmagic2.jpg",
+                "./img/acessorios/playmatmagic3.webp",
+                "./img/acessorios/playmatmagic4.webp",
+                "./img/acessorios/playmatmagic5.jpg"
+            ],
+            "promo": "sim",
+            "categoria": "Acessórios"
+        },
+        {
+            "id": 23,
+            "nome": "Kit de Dados de RPG D&D - Marble Blue",
+            "preco": "39.00",
+            "descricao": "Conjunto de 7 dados de RPG para Dungeons & Dragons, estilo Marble Blue, incluindo D20, D12, D10, D8, D6, e D4.",
+            "editor": "Chessex",
+            "imagem_principal": "../img/acessorios/dados1.webp",
+            "outras_imagens": [
+                "./img/acessorios/dados2.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Acessórios"
+        },
+        {
+            "id": 24,
+            "nome": "Sleeves Premium - 100 unidades",
+            "preco": "29.00",
+            "descricao": "Protetores de cartas premium, pack com 100 unidades, compatível com a maioria dos jogos de tabuleiro.",
+            "editor": "Dragon Shield",
+            "imagem_principal": "./img/acessorios/sleeve1.webp",
+            "outras_imagens": [
+                "./img/acessorios/sleeve2.webp",
+                "./img/acessorios/sleeve3.webp"
+            ],
+            "promo": "nao",
+            "categoria": "Acessórios"
+        },
+        {
+            "id": 25,
+            "nome": "Caixa Organizadora para Zombicide",
+            "preco": "159.00",
+            "descricao": "Caixa organizadora para Zombicide, feita em MDF, com compartimentos para miniaturas, cartas e tokens.",
+            "editor": "E-Raptor",
+            "imagem_principal": "./img/acessorios/zombiebox1.webp",
+            "outras_imagens": [
+                "./img/acessorios/zombiebox2.webp",
+                "./img/acessorios/zombiebox3.webp",
+                "./img/acessorios/zombiebox4.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Acessórios"
+        },
+        {
+            "id": 26,
+            "nome": "Tokens de Vida - Magic: The Gathering",
+            "preco": "19.00",
+            "descricao": "Conjunto de tokens de vida para Magic: The Gathering, feitos de acrílico, com contadores de 10, 20, 30 e 40 pontos de vida.",
+            "editor": "Wizards of the Coast",
+            "imagem_principal": "./img/acessorios/tokensvida1.webp",
+            "outras_imagens": [
+                "./img/acessorios/tokensvida2.webp",
+                "./img/acessorios/tokensvida3.webp",
+                "./img/acessorios/tokensvida4.webp"
+            ],
+            "promo": "nao",
+            "categoria": "Acessórios"
+        },
+        {
+            "id": 27,
+            "nome": "Tapete de Jogo para Catan",
+            "preco": "99.00",
+            "descricao": "Tapete de jogo personalizado para Catan, com áreas marcadas para cada tipo de carta e peça.",
+            "editor": "Mayfair Games",
+            "imagem_principal": "./img/acessorios/tapetecatan1.webp",
+            "outras_imagens": [
+                "./img/acessorios/tapetecatan2.webp",
+                "./img/acessorios/tapetecatan3.webp"
+            ],
+            "promo": "nao",
+            "categoria": "Acessórios"
+        },
+        {
+            "id": 28,
+            "nome": "Miniaturas de RPG - Pack Heroes",
+            "preco": "59.00",
+            "descricao": "Conjunto de miniaturas de heróis para jogos de RPG, inclui 5 figuras detalhadas.",
+            "editor": "WizKids",
+            "imagem_principal": "./img/acessorios/minirpg1.webp",
+            "outras_imagens": [
+                "./img/acessorios/minirpg2.webp",
+                "./img/acessorios/minirpg3.webp"
+            ],
+            "promo": "sim",
+            "categoria": "Acessórios"
+        },
+        {
+            "id": 29,
+            "nome": "Deck Box - Magic: The Gathering",
+            "preco": "49.00",
+            "descricao": "Caixa para armazenamento de decks de Magic: The Gathering, com capacidade para 100 cartas protegidas.",
+            "editor": "Ultra Pro",
+            "imagem_principal": "./img/acessorios/magicbox1.jpg",
+            "outras_imagens": [
+                "./img/acessorios/magicbox2.jpg",
+                "./img/acessorios/magicbox3.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Acessórios"
+        },
+        {
+            "id": 30,
+            "nome": "Shield de Mestre - D&D",
+            "preco": "129.00",
+            "descricao": "Shield de Mestre para Dungeons & Dragons, feito de material resistente, com espaços para notas e tabelas.",
+            "editor": "Gale Force Nine",
+            "imagem_principal": "./img/acessorios/dnd_shield_1.jpg",
+            "outras_imagens": [
+                "./img/acessorios/dnd_shield_2.jpg",
+                "./img/acessorios/dnd_shield_3.jpg"
+            ],
+            "promo": "nao",
+            "categoria": "Acessórios"
+        }
+    ]
+}
