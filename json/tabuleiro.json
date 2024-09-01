@@ -495,7 +495,7 @@
             "preco": "39.00",
             "descricao": "Conjunto de 7 dados de RPG para Dungeons & Dragons, estilo Marble Blue, incluindo D20, D12, D10, D8, D6, e D4.",
             "editor": "Chessex",
-            "imagem_principal": "../img/acessorios/dados1.webp",
+            "imagem_principal": "./img/acessorios/dados1.webp",
             "outras_imagens": [
                 "./img/acessorios/dados2.jpg"
             ],
