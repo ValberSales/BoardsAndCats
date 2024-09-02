@@ -148,13 +148,13 @@ async function popularCarrinho() {
 
         const itemElement = document.createElement('tr');
         itemElement.innerHTML = `
-            <td><img src="${item.imagem}" alt="${item.titulo}" class="img-thumbnail img-tabela" style="height: 50px;"></td>
+            <td class="trash trash2"><img src="${item.imagem}" alt="${item.titulo}" class="img-thumbnail trash2 img-tabela" style="height: 50px;"></td>
             <td>${item.titulo}</td>
             <td>
                 <input type="number" value="${item.quantidade}" class="form-control" style="width: 60px;" min="0" data-id="${item.id}">
             </td>
             <td>R$ ${subtotalItem.toFixed(2)}</td>
-            <td class="text-center">
+            <td class="text-center trash">
                 <button class="btn remover-item btn-bd-primary" data-id="${item.id}" aria-label="Remover item">
                     <i data-feather="trash-2"></i>
                 </button>
