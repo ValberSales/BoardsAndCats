@@ -419,7 +419,7 @@ document.addEventListener("DOMContentLoaded", async function () {
                         </button>`
                 if (produto.categoria === 'Acessórios') {
                     // Oculta a seção de detalhes do produto se for um acessório
-                    const detalhesSection = document.querySelector('.mt-4');
+                    const detalhesSection = document.querySelector('.detelhes');
                     detalhesSection.style.display = 'none';
                 } else {
                     // Exibe os detalhes do produto para outras categorias
