@@ -1,12 +1,7 @@
-
 @media screen and (min-width:320px) and (max-width:768px) {
 
     .img-tabela{
         display: none;
-    }
-
-    header{
-        max-width: 100vw;
     }
 
     .userdropdown{
@@ -17,24 +12,9 @@
         display: block;
     }
 
-    footer{
-
-        max-width: 100vw;
-    }
-
     .foot{
         font-size:medium;
         padding-right: 2rem;
-        flex-direction: row;
-    }
-
-    .footer-content{
-        flex-direction: column;
-    }
-
-    main{
-        padding-bottom: 2rem;
-        padding-top: 2rem;
     }
 
 }
