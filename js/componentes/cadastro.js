@@ -71,6 +71,16 @@ export function createForm() {
                     <input type="email" class="form-control" id="email" required>
                   </div>
                 </div>
+                <div class="row mb-3">
+                  <div class="col-md-6">
+                    <label for="senha" class="form-label">Senha</label>
+                    <input type="password" class="form-control" id="senha" required>
+                  </div>
+                  <div class="col-md-6">
+                    <label for="senha2" class="form-label">Confirmação de Senha</label>
+                    <input type="password" class="form-control" id="senha2" required>
+                  </div>
+                </div>
                 <div class="mb-3 form-check">
                   <input type="checkbox" class="form-check-input" id="receberPromocoes">
                   <label class="form-check-label" for="receberPromocoes">Desejo receber promoções</label>
